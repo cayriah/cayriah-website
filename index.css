@@ -11,7 +11,7 @@
 .hero{
   height: 100vh;
   width: 100%;
-  background: #f9a6e0;
+  background: #f1fcfa;
   font-family: sans-serif;
   position: relative;
   
@@ -43,10 +43,21 @@ color: rgb(4, 4, 4);
 }
 
 nav ul li a:hover{
-  color: rgb(77, 65, 72);
+  color: #E31F71;
   }
 
 .logo{
   width: 100px;
   cursor: pointer;
+}
+
+.info{
+  margin-left: 8%;
+  margin-top: 15%;
+}
+
+.info h1{
+  color: #E31F71;
+  font-weight: bold;
+  margin-bottom: 10px;
 }
